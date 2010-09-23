@@ -7,3 +7,6 @@
 [submodule "c:/Users/rod/vimfiles/bundle/git"]
 	path = c:/Users/rod/vimfiles/bundle/git
 	url = git://github.com/tpope/vim-git.git
+[submodule "c:/Users/rod/vimfiles/bundle/cd"]
+	path = c:/Users/rod/vimfiles/bundle/cd
+	url = git://github.com/vim-scripts/CD.vim.git
