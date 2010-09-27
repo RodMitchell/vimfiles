@@ -19,3 +19,6 @@
 [submodule "cd"]
 	path = cd
 	url = c:/Users/rod/vimfiles/bundle/cd
+[submodule "c:/Users/rod/vimfiles/bundle/autocorrect"]
+	path = c:/Users/rod/vimfiles/bundle/autocorrect
+	url = git://github.com/panozzaj/vim-autocorrect.git
