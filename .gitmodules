@@ -25,3 +25,6 @@
 [submodule "c:/Users/rod/vimfiles/bundle/open"]
 	path = c:/Users/rod/vimfiles/bundle/open
 	url = git://github.com/xolox/vim-open-associated-programs.git
+[submodule "c:/Users/rod/vimfiles/bundle/shell"]
+	path = c:/Users/rod/vimfiles/bundle/shell
+	url = git://github.com/xolox/vim-shell.git
