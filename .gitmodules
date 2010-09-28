@@ -22,3 +22,6 @@
 [submodule "c:/Users/rod/vimfiles/bundle/autocorrect"]
 	path = c:/Users/rod/vimfiles/bundle/autocorrect
 	url = git://github.com/panozzaj/vim-autocorrect.git
+[submodule "c:/Users/rod/vimfiles/bundle/open"]
+	path = c:/Users/rod/vimfiles/bundle/open
+	url = git://github.com/xolox/vim-open-associated-programs.git
