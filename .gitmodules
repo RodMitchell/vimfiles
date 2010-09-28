@@ -1,0 +1,15 @@
+[submodule "c:/Users/rod/vimfiles/bundle/fugitive"]
+	path = c:/Users/rod/vimfiles/bundle/fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "c:/Users/rod/vimfiles/bundle/ragtag"]
+	path = c:/Users/rod/vimfiles/bundle/ragtag
+	url = git://github.com/tpope/vim-ragtag.git
+[submodule "c:/Users/rod/vimfiles/bundle/git"]
+	path = c:/Users/rod/vimfiles/bundle/git
+	url = git://github.com/tpope/vim-git.git
+[submodule "c:/Users/rod/vimfiles/bundle/cd"]
+	path = c:/Users/rod/vimfiles/bundle/cd
+	url = git://github.com/vim-scripts/CD.vim.git
+[submodule "c:/Users/rod/vimfiles/bundle/shell"]
+	path = c:/Users/rod/vimfiles/bundle/shell
+	url = git://github.com/xolox/vim-shell.git
