@@ -1,0 +1,6 @@
+[submodule "c:/Users/rod/vimfiles/bundle/fugitive"]
+	path = c:/Users/rod/vimfiles/bundle/fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "c:/Users/rod/vimfiles/bundle/ragtag"]
+	path = c:/Users/rod/vimfiles/bundle/ragtag
+	url = http://github.com/tpope/vim-ragtag.git
